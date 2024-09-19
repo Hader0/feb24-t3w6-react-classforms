@@ -22,10 +22,6 @@ export default class SocialMediaPostContainer extends React.Component {
 
 	render(){
 
-		// this.props.author 
-		// this.props.parentState.author 
-		
-
 		if (this.state.isEditing){
 			return(
 				<>
@@ -42,9 +38,7 @@ export default class SocialMediaPostContainer extends React.Component {
 
 						parentState={this.state}
 					/>
-
 				</>
-				
 			);
 		} else {
 			return(

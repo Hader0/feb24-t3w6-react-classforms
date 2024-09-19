@@ -1,5 +1,5 @@
 import './App.css';
-import SocialMediaPostContainer from './components/SocialMediaPostContainer';
+import SocialMediaPostContainer from './Components/socialMediaPostContainer';
 
 function App() {
   return (
