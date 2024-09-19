@@ -4,6 +4,7 @@
   - ReadonlyPost
   - EditablePost
     - Delete Function
+  - Toggle Editable Button
   - State:
     - isEditing: Boolean
     - Author: String
